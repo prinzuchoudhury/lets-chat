@@ -1,0 +1,6 @@
+.messages {
+  padding: 5% 0;
+  overflow: auto;
+  background-image: url('../../Images/Message.jpg');
+  flex: auto;
+}
